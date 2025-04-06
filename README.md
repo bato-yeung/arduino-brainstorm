@@ -58,3 +58,8 @@
 - 確保所有元件正確連接，並檢查電路是否穩定。
 - 使用 Arduino IDE 上傳程式碼，並安裝所需的外部函式庫（如 `MD_MAX72XX` 和 `Grove_LED_Bar`）。
 - 可根據需求調整遊戲速度和其他參數。
+
+---
+
+## 硬體說明
+![hardware-settings](https://github.com/user-attachments/assets/bca33534-bcd9-4ca3-aab1-99c52cd434c9)
