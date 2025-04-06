@@ -61,5 +61,5 @@
 
 ---
 
-## 硬體說明
+## 硬體設置說明
 ![hardware-settings](https://github.com/user-attachments/assets/bca33534-bcd9-4ca3-aab1-99c52cd434c9)
